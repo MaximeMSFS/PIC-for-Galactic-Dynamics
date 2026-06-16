@@ -1,7 +1,5 @@
 """
 Set of functions for validation and extras
-This is ongoing development and features may be broken
-many function which I am not familiar with and still discovering are used, integration may be erroneous
 """
 import matplotlib.pyplot as plt
 import numpy as np
